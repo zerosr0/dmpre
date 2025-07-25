@@ -176,6 +176,7 @@ input[type="password"] {
 
   .rightSec {
     width: 70%;
+    border-radius: 0;
   }
 }
 
